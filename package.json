@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quibusdam-voluptates-velit-dignissimos",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -183,5 +183,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quibusdam-voluptates-velit-dignissimos/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
